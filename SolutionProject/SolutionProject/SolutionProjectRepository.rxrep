@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<repository
+name="SolutionProjectRepository"
+id="c0b4e1d8-d70f-4196-8e00-6e189d6be922">
+  <codegen
+  classname="SolutionProjectRepository"
+  namespace="SolutionProject"/>
+  <rootfolder
+  name="Root"
+  id="a94ef4b5-1631-49ff-8ced-83daddec96d4"
+  searchtimeout="30000ms"
+  capname="unknown"
+  isrooted="True"
+  usecache="True">
+    <basepath/>
+  </rootfolder>
+  <variables/>
+</repository>

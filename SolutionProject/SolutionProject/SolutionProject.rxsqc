@@ -1,0 +1,17 @@
+[
+  {
+    "Enabled": "True",
+    "TestSuite": "SolutionProject",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "DummySol",
+    "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "Dummysol1",
+    "RunConfig": "TestRun"
+  }
+]

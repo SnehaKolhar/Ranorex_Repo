@@ -1,0 +1,20 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="TC_Common\Fifth.cs" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="DummySol.rxtst" />
+    <Element value="Dummysol1.rxtst" />
+    <Element value="TC_Common\First.cs" />
+    <Element value="TC_Common\Second.cs" />
+    <Element value="TC_Common\Third.cs" />
+    <Element value="TC_Common\Fourth.cs" />
+    <Element value="TC_Common\Fifth.cs" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Properties name="customTool">
+      <runOnBuild value="False" />
+    </Properties>
+  </Properties>
+</Properties>

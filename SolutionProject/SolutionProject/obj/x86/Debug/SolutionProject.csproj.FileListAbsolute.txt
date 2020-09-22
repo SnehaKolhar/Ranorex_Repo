@@ -1,0 +1,13 @@
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\DummySol.rxtst
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\Dummysol1.rxtst
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\SolutionProject.rxsqc
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\SolutionProject.rxtmg
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\SolutionProject.rxtst
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\SolutionProject.exe.config
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\SolutionProject.xml
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\SolutionProject.exe
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\SolutionProject.pdb
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\Ranorex.Core.Resolver.dll
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\obj\x86\Debug\SolutionProject.csprojResolveAssemblyReference.cache
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\obj\x86\Debug\SolutionProject.exe
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\obj\x86\Debug\SolutionProject.pdb
