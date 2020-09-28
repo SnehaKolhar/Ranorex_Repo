@@ -23,9 +23,9 @@ if "x!VAR:%Suite%=!"=="x%VAR%" (
 )
 
 REM below is the query that will execute
-cd /d SolutionProject\SolutionProject\bin\Debug 
+cd SolutionProject\SolutionProject\bin\Debug
 FOR /L %%i IN (1,1,%numT%) DO (
-Proj_TeamCenter.exe /ts:!elx[%%i]!.rxtst /tc:!elem[%%i]!
+SolutionProject.exe /ts:!elx[%%i]!.rxtst /tc:!elem[%%i]!
 )
 
 endlocal
