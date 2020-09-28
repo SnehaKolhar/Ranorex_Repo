@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<report
+	progress="">
+	<activity
+		result="Failed"
+		duration="15.28s"
+		durationms="15283"
+		type="root"
+		rid="e3bbeb315039169"
+		totalerrorcount="0"
+		totalwarningcount="0"
+		totalsuccesstestcasecount="0"
+		totalfailedtestcasecount="0"
+		totalblockedtestcasecount="0"
+		childsuccesscount="0"
+		childfailedcount="0"
+		childblockedcount="0"
+		totalsuccesscount="0"
+		totalfailedcount="0"
+		totalblockedcount="0"
+		totalmaintenancemodecount="0"
+		user="ffg9ym"
+		rxversion="9.3.2.0"
+		host="PL2INPUN0259NB"
+		osversion="Windows 10 64bit"
+		runtimeversion="4.0.30319.42000"
+		procarch="32bit"
+		oslanguage="en-US"
+		dtnlanguage="en-IN"
+		screenresolution="1920x1080"
+		timestamp="28-09-2020 12:18:25"
+		timestampiso="2020-09-28T06:48:25"
+		endtime="28-09-2020 12:18:40"
+		timeoutfactor="1"
+		runid=""
+		sutversion="">
+		<detail>
+			Ranorex Testscript
+		</detail>
+		<item
+			timeRelativeToTestSuiteStartTime="00:15.093"
+			timeRelativeToTestModuleStartTime="00:15.093"
+			timeWallClock="12:18:40"
+			time="00:15.093"
+			level="Failure"
+			category="TestSuite">
+			<message>
+				Could not find a 'test case' or 'smart folder' with name or ID 'Second'.
+			</message>
+			<metainfo
+				stacktrace="   at Ranorex.Core.Testing.TestSuiteRunner.TryRunTestCase(RunParams rp, TestSuite testSuite)&#13;&#10;   at Ranorex.Core.Testing.TestSuiteRunner.&lt;>c__DisplayClass13_1.&lt;RunInternal>b__4()&#13;&#10;   at Ranorex.Common.Types.OptCombinators.OrElse[T](Opt`1 self, Func`1 defaultInstanceCreator)&#13;&#10;   at Ranorex.Core.Testing.TestSuiteRunner.RunInternal(Type containerType, String[] testSuiteXmls, RunParams[] rps)"
+				loglvl="Failure">
+			</metainfo>
+		</item>
+	</activity>
+</report>
