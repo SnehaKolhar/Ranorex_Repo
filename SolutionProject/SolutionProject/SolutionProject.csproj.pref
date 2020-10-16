@@ -1,7 +1,5 @@
 ﻿<Properties>
-  <Array name="active">
-    <Element value="TC_Common\Fifth.cs" />
-  </Array>
+  <Array name="active" />
   <Array name="bookmarks" />
   <Array name="files">
     <Element value="DummySol.rxtst" />

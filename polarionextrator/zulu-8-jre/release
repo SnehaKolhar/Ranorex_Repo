@@ -1,0 +1,5 @@
+JAVA_VERSION="1.8.0_242"
+OS_NAME="Windows"
+OS_VERSION="5.2"
+OS_ARCH="amd64"
+SOURCE=" .:2bc02eb3d832 corba:4f24597e00e0 hotspot:f405f77085d2 jaxp:0e1bae5cf508 jaxws:fc4160b2dca3 jdk:f1c76833b18b langtools:1af716d58011 nashorn:b9efffa3385f"
