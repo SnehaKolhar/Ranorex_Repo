@@ -175,7 +175,7 @@ public class Main {
 		 */
         testRunID = "drivepilot_std";
         statuses = "waiting";
-        confFile = "C:\\Users\\uq4yyg\\eclipse-workspace\\javaProject_3\\settings.properties";
+        confFile = "C:\\JsonExtrator\\RanorexSolution\\polarionextrator\\settings.properties";
         prop = new Properties();
         prop.load(new FileInputStream(confFile));
     }
