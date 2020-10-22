@@ -13,5 +13,10 @@
     "Enabled": "True",
     "TestSuite": "Dummysol1",
     "RunConfig": "TestRun"
+  },
+  {
+    "Enabled": "True",
+    "TestSuite": "Jenkins",
+    "RunConfig": "TestRun"
   }
 ]

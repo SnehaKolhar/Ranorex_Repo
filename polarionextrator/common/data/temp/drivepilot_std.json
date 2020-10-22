@@ -5,18 +5,6 @@
     "goal" : "com.polarion.alm.ws.client.types.Text@5573650d"
   } ],
   "tests" : [ {
-    "title" : "dummy1",
-    "priority" : "50.0",
-    "testType" : "release",
-    "testsuite" : "Jenkins",
-    "runconfig" : "Run Configuration"
-  }, {
-    "title" : "Third_TestCase",
-    "priority" : "50.0",
-    "testType" : "manual",
-    "testsuite" : "Jenkins",
-    "runconfig" : "Run Configuration"
-  }, {
     "title" : "Second_Testcase",
     "priority" : "50.0",
     "testType" : "manual",
@@ -24,18 +12,6 @@
     "runconfig" : "Run Configuration"
   }, {
     "title" : "First_Testcase",
-    "priority" : "50.0",
-    "testType" : "manual",
-    "testsuite" : "Jenkins",
-    "runconfig" : "Run Configuration"
-  }, {
-    "title" : "Dummy Testcase",
-    "priority" : "50.0",
-    "testType" : "manual",
-    "testsuite" : "Jenkins",
-    "runconfig" : "Run Configuration"
-  }, {
-    "title" : "Utils_Json",
     "priority" : "50.0",
     "testType" : "manual",
     "testsuite" : "Jenkins",

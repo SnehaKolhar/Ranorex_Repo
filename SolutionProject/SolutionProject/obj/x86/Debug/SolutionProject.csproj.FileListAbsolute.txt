@@ -11,3 +11,4 @@ C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\Ranore
 C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\obj\x86\Debug\SolutionProject.csprojResolveAssemblyReference.cache
 C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\obj\x86\Debug\SolutionProject.exe
 C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\obj\x86\Debug\SolutionProject.pdb
+C:\JsonExtrator\RanorexSolution\SolutionProject\SolutionProject\bin\Debug\Jenkins.rxtst

@@ -171,6 +171,10 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       <id>db77ed47-797e-4c09-9352-33c23cc11200</id>
     </Content>
+    <Content Include="Jenkins.rxtst">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <id>7b45c6b9-a427-4868-ad00-7e6a65f03739</id>
+    </Content>
     <None Include="app.config">
       <id>09533c99-56ff-4c30-830b-e0d6c6b0eb77</id>
     </None>
