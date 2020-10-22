@@ -2,13 +2,8 @@
   <Array name="active" />
   <Array name="bookmarks" />
   <Array name="files">
+    <Element value="Jenkins.rxtst" />
     <Element value="DummySol.rxtst" />
-    <Element value="Dummysol1.rxtst" />
-    <Element value="TC_Common\First.cs" />
-    <Element value="TC_Common\Second.cs" />
-    <Element value="TC_Common\Third.cs" />
-    <Element value="TC_Common\Fourth.cs" />
-    <Element value="TC_Common\Fifth.cs" />
   </Array>
   <Properties name="projectSavedData">
     <Properties name="customTool">
